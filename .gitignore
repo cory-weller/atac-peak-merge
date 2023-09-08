@@ -1,0 +1,4 @@
+*.gz
+*.gz.tbi
+*fragments.tsv
+slurm*out
